@@ -1,1 +1,1 @@
-web: gunicorn djangonewssiteFF.wsgi
+web: gunicorn cleanblog.wsgi
