@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '%9tcz&ul6ohh@hei#$t67n$%ichilj7@uk)m%#4)m=!=z179em'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['emildjangonewssite.herokuapp.com', '127.0.0.1']
 
